@@ -101,14 +101,14 @@
         <section>
             <h2>Kontaktieren Sie uns</h2>
             <p>Für ein unverbindliches Angebot oder Beratung erreichen Sie uns unter:</p>
-            <p><strong>Telefon:</strong> 01234 567890<br />
-            <strong>E-Mail:</strong> info@montage-reparatur.de</p>
+            <p><strong>Telefon:</strong> +491777531767 <br />
+            <strong>E-Mail:</strong>  fensterundturenmk@gmail.com </p>
             <form action="mailto:info@montage-reparatur.de" method="post" enctype="text/plain">
                 <label for="name">Name</label>
                 <input type="text" id="name" name="Name" required />
 
                 <label for="email">E-Mail</label>
-                <input type="email" id="email" name="E-Mail" required />
+                <input type="email" id="email" name="fensterundturenmk@gmail.com" required />
 
                 <label for="message">Nachricht</label>
                 <textarea id="message" name="Nachricht" rows="5" required></textarea>
