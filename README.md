@@ -108,7 +108,7 @@
                 <input type="text" id="name" name="Name" required />
 
                 <label for="email">E-Mail</label>
-                <input type="email" id="email" name="E-Mail" required />
+                <input type="email" id="email" name="fensterundturenmk@gmail.com" required />
 
                 <label for="message">Nachricht</label>
                 <textarea id="message" name="Nachricht" rows="5" required></textarea>
